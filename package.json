@@ -1,0 +1,11 @@
+{
+  "name": "ironm",
+  "version": "0.1.0",
+  "description": "iron twitter client",
+  "main": "app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ganmacs",
+  "license": "MIT"
+}
